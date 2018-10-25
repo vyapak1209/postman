@@ -1,0 +1,58 @@
+.Navbar{
+    width: 100%;
+    background-color: #ee5861;
+    display: flex;
+    justify-content: space-between;
+    top: 0px;
+}
+
+#logo{
+    
+
+    font-family: 'Raleway', cursive;
+    font-weight: 900;
+    font-size: 35px;
+    color: white;
+    margin: 20px 40px;
+}
+
+.Navbar input{
+    padding: 10px;
+    font-size: 1em;
+    margin-top: 20px;
+    width: 400px;
+    outline: none;
+    border: none;
+    font-family: 'Raleway', sans-serif;
+    border-top-left-radius: 25px;
+    border-bottom-left-radius: 25px;
+    padding-left: 20px;
+}
+.temp{
+    display: flex;
+}
+.cart{
+    padding: 10px;
+    font-size: 1em;
+    margin-top: 10px;
+    margin-right: 50px;
+
+}
+.cart button{
+    color: white;
+    background-color: #ee5861; 
+}
+
+.Navbar button{
+    padding: 10px;
+    padding-right: 20px;
+    padding-left: 20px;
+    margin: 0;
+    font-size: 1em;
+    outline: none;
+    border: none;
+    font-family: 'Raleway', sans-serif;
+    cursor: pointer;
+    border-top-right-radius: 25px;
+    border-bottom-right-radius: 25px;
+}

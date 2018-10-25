@@ -1,0 +1,61 @@
+
+.videoContainer{
+    margin-top: 100px;
+    margin: 20px;
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+
+.videoContainer img{
+    object-fit: contain;
+}
+
+.descContainer{
+    margin: 10px;
+    padding: 10px;
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+}
+
+.descContainer h5{
+    font-family: 'Raleway' sans-serif;
+}
+
+.descContainer label{
+    font-family: 'Raleway' sans-serif;
+}
+
+.descContainer h5{
+    font-size: 15px;
+    font-family: 'Raleway' sans-serif; 
+}
+
+.fake-link {
+    color: rgb(78, 125, 228);
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.sortBy{
+    display: flex;
+    flex: 3;
+    padding: 10px;
+    margin: 10px;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.descContainer label{
+    font-size: 14px;
+    font-family: 'Raleway' sans-serif;
+}
+
+.videoModal h2{
+    font-family: 'Raleway' sans-serif;  
+}
+
+.videoModal h5{
+    font-family: 'Raleway' sans-serif;  
+}
