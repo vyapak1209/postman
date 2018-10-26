@@ -22,10 +22,4 @@ npm start
 
 Navigate to https://localhost:3000
 
-# SETUP (PRODUCTION BUILD)
 
-## Install it: (Ignore if already installed)
-
-npm install
-
-## install yarn 
